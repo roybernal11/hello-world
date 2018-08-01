@@ -1,2 +1,2 @@
 # hello-world
-I am Roy im a begginer
+print('hello world!')
